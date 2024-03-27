@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXmCIBMghtnZpE21aPtmDg6KjtwMTJKvkRTw/2CDtk8B8rD5H6C6cS6VM+eOVMlrunhhWikGR0EgFoBVm2wO5A==",
+  "success": true,
+  "projectFilePath": "D:\\MOD6_1302223071\\MOD6\\MOD6\\MOD6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
